@@ -1,0 +1,26 @@
+body{
+    background-color: #d5b0f3;
+    font-family: cursive;
+}
+
+#score{
+   font-size: 20px;  
+   margin-right: 1200px;   
+}
+#timer{
+    font-size: 20px;
+    float:right;
+    margin-right: 100px;
+}
+#sketch_assigned{
+    color:white;
+    font-weight:bold;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    animation-name:example;
+    animation-duration:4s;
+    animation-iteration-count: infinite;
+    margin-top:50px;
+}
